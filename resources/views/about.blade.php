@@ -1,9 +1,11 @@
-@extends('layouts.master')
+@extends('layouts.master2')
 @section('title', 'about')
 @section('content')
     <div class="about-section">
-        <h1>About Us</h1>
-        <p class="text">Some text about who we are and what we do.</p>
-        <p class="text">Resize the browser window to see that this page is responsive by the way.</p>
-    </div>
+        <div class="container">
+            <h1>About Us</h1><br>
+            <p>Indofood adalah salah satu restoran lokal di luar negeri yang menyediakan</p>
+            <p>maknan-makanan khas indonesia dari sabang sampai merauke.</p>
+        </div>
+    </div><br>
 @endsection

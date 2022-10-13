@@ -38,3 +38,12 @@ footer {
 button {
     background-color: blue;
 }
+
+/* about */
+.about-section {
+    display: flex;
+    font-size: larger;
+    position: relative;
+    text-align: center;
+    color: rgb(253, 249, 233);
+}

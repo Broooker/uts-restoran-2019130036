@@ -23,4 +23,8 @@ Route::get('about', [App\Http\Controllers\AboutController::class,'profil'])->nam
 
 Route::get('product', [App\Http\Controllers\ProductController::class,'menu'])->name('product');
 
+Route::get('testimonials', [App\Http\Controllers\TestimonialController::class,'test'])->name('testimonials');
+
+Route::get('contact', [App\Http\Controllers\ContactController::class,'telpon'])->name('contact');
+
 // Route::get('/product', IndexController::class)->name('product');
