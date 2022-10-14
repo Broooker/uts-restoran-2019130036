@@ -9,9 +9,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://kit.fontawesome.com/814966721c.js" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/product.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/test.css">
     <link rel="stylesheet" href="css/navbar.css">
-    <title>My Restaurant | Product </title>
+    <title>My Restaurant | Testimonials </title>
 </head>
 
 <body>
@@ -30,7 +31,7 @@
                         <a href="{{ route('index') }}">home</a>
                         <a href="{{ route('about') }}">about</a>
                         <a href="{{ route('product') }}">Product</a>
-                        <a href="{{ route('testimonial') }}">Testimonial</a>
+                        <a href="{{ route('testimonials') }}">Testimonial</a>
                         <a href="{{ route('contact') }}">contact</a>
                     </div>
                 </nav>

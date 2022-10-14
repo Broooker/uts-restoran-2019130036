@@ -12,7 +12,6 @@
     <link rel="stylesheet" href="css/slider.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/navbar.css">
-    {{-- <link rel="stylesheet" href="css/bootstrap.css"> --}}
     <title>My Restaurant | Home</title>
 </head>
 
@@ -32,7 +31,7 @@
                         <a href="{{ route('index') }}">home</a>
                         <a href="{{ route('about') }}">about</a>
                         <a href="{{ route('product') }}">Product</a>
-                        <a href="{{ route('testimonial') }}">Testimonial</a>
+                        <a href="{{ route('testimonials') }}">Testimonial</a>
                         <a href="{{ route('contact') }}">contact</a>
                     </div>
                 </nav>

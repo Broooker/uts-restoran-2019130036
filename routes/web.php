@@ -1,6 +1,11 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\IndexController;
+use App\Http\Controllers\AboutController;
+use App\Http\Controllers\ProductController;
+use App\Http\Controllers\TestimonialsController;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -23,7 +28,7 @@ Route::get('about', [App\Http\Controllers\AboutController::class,'profil'])->nam
 
 Route::get('product', [App\Http\Controllers\ProductController::class,'menu'])->name('product');
 
-Route::get('testimonials', [App\Http\Controllers\TestimonialController::class,'test'])->name('testimonials');
+Route::get('testimonials', [App\Http\Controllers\TestimonialsController::class,'test'])->name('testimonials');
 
 Route::get('contact', [App\Http\Controllers\ContactController::class,'telpon'])->name('contact');
 

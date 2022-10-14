@@ -7,12 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="./assets/Group 11.png" sizes="32x32" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    {{-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" /> --}}
     <script src="https://kit.fontawesome.com/814966721c.js" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {{-- <link rel="stylesheet" href="css/slider.css"> --}}
-    <link rel="stylesheet" href="css/product.css">
+    {{-- <link rel="stylesheet" href="css/style.css"> --}}
+    <link rel="stylesheet" href="css/contact.css">
     <link rel="stylesheet" href="css/navbar.css">
-    <title>My Restaurant | Product </title>
+    <title>My Restaurant | Contact </title>
 </head>
 
 <body>
