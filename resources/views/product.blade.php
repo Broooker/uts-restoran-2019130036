@@ -20,25 +20,25 @@
         <div class="card">
             <div class="imgBx">
                 <a href="#">
-                    <img src="./images/menu3.JPG">
+                    <img src="./images/menu2.JPG">
                 </a>
                 <h2>Jus Buah Naga Merah</h2>
                 <p><br>Buah Naga dari perkebunan Bali memberikan sensasi rasa
                     kesegaran alami yang khas dari Bali.
                 </p>
+
             </div>
         </div>
 
         <div class="card">
             <div class="imgBx">
                 <a href="#">
-                    <img src="./images/menu2.JPG">
+                    <img src="./images/menu3.JPG">
                 </a>
                 <h2>Nasi Roll Ayam Mangga</h2>
                 <p><br>Dada ayam yang lembut, mangga manis alami,
                     wortel renyah dan romaine, bihun tipis.
                 </p>
-
             </div>
         </div>
 

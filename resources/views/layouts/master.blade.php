@@ -43,7 +43,7 @@
         <footer class="mastfoot mt-auto">
             <div class="inner">
                 <p class="button">
-                    <a href="{{ route('product') }}">ORDER NOW</a>
+                    <a href="{{ route('contact') }}">ORDER NOW</a>
                 </p>
             </div>
         </footer>
